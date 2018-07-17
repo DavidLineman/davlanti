@@ -1,0 +1,27 @@
+body {
+	background-image: url("image.jpg");
+	background-size: cover;
+}
+
+.container {
+	margin-top: 40px;
+	text-align: center;
+	display: flex;
+	flex-direction: column;
+	align-content: space-between;
+ 	color: #522B72;
+}
+
+h1 { 
+	color: #522B72;
+	border-bottom: 1px solid black;
+ }
+
+ .btn {
+
+ 	background-color: black;
+ }
+
+ .btn:hover {
+ 	background-color: #522B72;
+ }
